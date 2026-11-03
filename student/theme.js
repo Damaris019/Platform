@@ -23,8 +23,8 @@ const THEME = {
   ledge:        "#a7865d",   // ledges you can jump through
   spikes:       "#d9d9e0",   // spikes
 
-  player:       "#f2f2f2",   // the player
-  playerEyes:   "#1b2a4a",   // the player's eyes
+  player:       "#da99f8",   // the player
+  playerEyes:   "#b7f3b5",   // the player's eyes
 
   goal:         "#ffd34d",   // the goal flag
   text:         "#ffffff",   // score and messages
