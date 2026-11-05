@@ -84,7 +84,18 @@ const ENEMY_TYPES = {
   },
 
   // <-- paste your new enemy here
-
+fireThrower: {
+    movement: "pace",
+    speed: 30,
+    width: 20,
+    height: 24,
+    color: "#ff4400",
+    stompable: true,
+    points: 300,
+    turnsAtLedges: true,
+    throwInterval: 2.5, // Throws a fireball every 2.5 seconds
+    projectileSpeed: 180,
+  },
 };
 
 
