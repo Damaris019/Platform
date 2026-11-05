@@ -156,10 +156,10 @@ const PICKUP_TYPES = {
   },
 
   // <-- paste your new pickup here
-goldenHeart: {
+BonusHeart: {
     color: "#ffd700",
     size: 14,
-    shape: "Diamond",
+    shape: "diamond",
     points: 100,
     treasure: true,
     power: { invincible: true, seconds: 10 },
@@ -191,7 +191,7 @@ const LEGEND = {
   "E": { kind: "enemy",  name: "walker" },
   "F": { kind: "enemy",  name: "flyer" },
   "H": { kind: "enemy",  name: "hopper" },
-  "T": { kind: "enemy",  name: "fireThrower" }, // <-- add your new letter here
-  "D": { kind: "pickup", name: "goldenHeart" }, // <-- add your new letter here
+  "T": { kind: "enemy",  name: "fireThrower" }, 
+  "D": { kind: "pickup", name: "goldenHeart" }, 
   // <-- add your new letters here
 };
