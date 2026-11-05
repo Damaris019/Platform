@@ -93,7 +93,7 @@ fireThrower: {
     stompable: true,
     points: 300,
     turnsAtLedges: true,
-    throwInterval: 2.5, // Throws a fireball every 2.5 seconds
+    throwInterval: 1.5, // Throws a fireball every 2.5 seconds
     projectileSpeed: 180,
   },
 };
