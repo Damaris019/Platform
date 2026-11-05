@@ -93,7 +93,7 @@ fireThrower: {
     stompable: true,
     points: 300,
     turnsAtLedges: true,
-    throwInterval: 1.5, // Throws a fireball every 2.5 seconds
+    throwInterval: 0.5, 
     projectileSpeed: 180,
   },
 };
@@ -156,7 +156,14 @@ const PICKUP_TYPES = {
   },
 
   // <-- paste your new pickup here
-
+goldenHeart: {
+    color: "#ffd700",
+    size: 14,
+    shape: "heart",
+    points: 100,
+    treasure: true,
+    power: { invincible: true, seconds: 10 },
+  },
 };
 
 
