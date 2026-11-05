@@ -85,7 +85,7 @@ const ENEMY_TYPES = {
 
   // <-- paste your new enemy here
 fireThrower: {
-    movement: "pace",
+    movement: "chase",
     speed: 30,
     width: 20,
     height: 24,
