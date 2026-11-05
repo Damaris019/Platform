@@ -159,7 +159,7 @@ const PICKUP_TYPES = {
 goldenHeart: {
     color: "#ffd700",
     size: 14,
-    shape: "heart",
+    shape: "Diamond",
     points: 100,
     treasure: true,
     power: { invincible: true, seconds: 10 },
