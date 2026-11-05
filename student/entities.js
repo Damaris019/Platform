@@ -192,6 +192,6 @@ const LEGEND = {
   "F": { kind: "enemy",  name: "flyer" },
   "H": { kind: "enemy",  name: "hopper" },
   "T": { kind: "enemy",  name: "fireThrower" }, 
-  "D": { kind: "pickup", name: "goldenHeart" }, 
+  "D": { kind: "pickup", name: "BonusHeart" }, 
   // <-- add your new letters here
 };
