@@ -162,7 +162,7 @@ BonusHeart: {
     shape: "diamond",
     points: 100,
     treasure: true,
-    power: { invincible: true, seconds: 10 },
+    power: { life: 1, seconds: 10 },
   },
 };
 
